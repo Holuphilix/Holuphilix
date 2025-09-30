@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Philip Oluwaseyi Oludolamu
 
-🚀 **DevOps Engineer | Cloud | AWS | Terraform | CI/CD | Docker**
+🚀 **✅DevOps Engineer | Cloud Engineer | CI/CD Engineer | Cloud Support Engineer | IT Support Specialist | IT Support Engineer | Open to Remote Opportunities**
 
 I’m passionate about building **scalable infrastructure**, automating deployments, and solving real-world problems using DevOps tools.  
 Currently advancing my skills in **Terraform, GitHub Actions, Kubernetes, and AWS services** through hands-on projects.
