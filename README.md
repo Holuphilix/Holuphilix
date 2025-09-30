@@ -27,7 +27,7 @@ Currently advancing my skills in **Terraform, GitHub Actions, Kubernetes, and AW
 
 ## 📫 Let's Connect
 - **Email:** oluphilix@gmail.com  
-- **LinkedIn:** [linkedin.com/in/Philip-Oluwaseyi](https://www.linkedin.com/) *(replace with your profile link)*  
+- **LinkedIn:** [www.linkedin.com/in/philip-oludolamu](https://www.linkedin.com/) 
 - **Portfolio:** [GitHub Projects](https://github.com/Holuphilix?tab=repositories)
 
 ⭐ *I’m open to entry-level DevOps opportunities and collaborations. Feel free to reach out!*
